@@ -1,0 +1,17 @@
+.env
+.env.*
+*.key
+*.pem
+*.pth
+*.pt
+*.onnx
+*.index
+*.mp3
+*.mp4
+*.wav
+*.flac
+output/
+outputs/
+__pycache__/
+.pytest_cache/
+.venv/
